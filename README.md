@@ -1,6 +1,6 @@
 # Serverless Rest API Architecture
 
-![Serverless](https://user-images.githubusercontent.com/95050185/216827209-0b2a8747-c2b6-4ca0-8320-3e33304fa9f5.png)
+![Serverless](https://raw.githubusercontent.com/Assassin010/SpringBoot-Serverless-Api-G/main/Serverless.drawio.png)
 
 **1. Introduction**
 
