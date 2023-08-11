@@ -75,7 +75,6 @@ SAM stands for **Serverless Application Model**. It's an open-source framework f
 SAM defines your application using a template file (`template.yaml`). The AWS resources required to run your application are defined in the template file. You should go over that template file and review it before deploying your application.
 
 `mvn clean package sam deploy --guided`
-https://aws.amazon.com/serverless/sam/
 
 **AWS CDK**
 
