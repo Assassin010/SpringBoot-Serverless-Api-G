@@ -1,3 +1,7 @@
+# Serverless Rest API Architecture
+
+![Serverless](https://user-images.githubusercontent.com/95050185/216827209-0b2a8747-c2b6-4ca0-8320-3e33304fa9f5.png)
+
 **1. Introduction**
 
 Let's discuss the benefits of using AWS Lambda and Spring Boot 3 before we begin. You're probably accustomed to packaging your programmes as JAR files and distributing them to servers. You might even deploy the application to Kubernetes in a containerised form using Docker.
