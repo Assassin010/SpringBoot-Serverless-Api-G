@@ -23,7 +23,9 @@ Thanks to Mark Sailes for all of his help with this tuto
 
 - Java 17
 - Spring Boot 3.1
-- 
+- AWS CLI
+- AWS SAM CLI
+- GIT
 
 
 **3. Agenda**
